@@ -1,6 +1,6 @@
 # Prueba
 
-![jimagen1](https://github.com/JorgeGallegos99/Prueba/blob/master/Img/temores.gif =20*20)\
+![jimagen1](https://github.com/JorgeGallegos99/Prueba/blob/master/Img/temores.gif =20x20)\
 Elaboración de una calculadora Binaria.
 Rashel Frías, Fernanda Guanoluisa, Jorge Gallegos. Ingeniería en Telecomunicaciones.
 Universidad de las Fuerzas Armadas Espe.
