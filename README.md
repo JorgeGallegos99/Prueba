@@ -15,6 +15,7 @@ ABSTRACT
 Binary arithmetic operations are widely used in the implementation of digital circuits because in the sampling of a signal it is intended to convert its value into a binary value, therefore, it is necessary to have knowledge of the numerical systems present in this branch like the development logic that they possess.
 A binary calculator uses binary variables and logical operations from Boolean algebra (binary logic) to develop the respective processes of addition, subtraction, multiplication, and division, also called elementary binary operations; The development of this application is carried out with App Inventor, which is a software development platform created by Google Labs for the development of applications for the Android operating system based on block programming.
 Keywords: binary logic, number systems, binary operations, App Inventor
+![imagen](https://github.com/JorgeGallegos99/Prueba/blob/master/Img/Screenshot_20200107-180415.png)\
 	OBJETIVO
 Realizar una calculadora con características propias que sea capaz de resolver las 4 operaciones aritméticas básicas en el sistema de numeración binario mediante la aplicación MIT App Inventor.
 
